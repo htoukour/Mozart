@@ -3,7 +3,7 @@
 Mozart is a simple QT web browser with Python (PyQT 5) under the hood.
 Any similarity to other browsers is entirely coincidental.
 
-![Mozart](screenshot-browser-tabbed.jpg)
+![Mozart](screenshot-Mozart.jpg)
 
 
 ## Code notes
